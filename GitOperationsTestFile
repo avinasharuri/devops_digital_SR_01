@@ -5,3 +5,7 @@ Enter credintials: $git config --global user.name "avinasharuri"
 	$git config --global user.email "avinasharuri@gmail.com"
 check for the path you are currently located at: # pwd
 Move in to the online repository and create a file: vi GitOperationsTestFile
+
+Additional commands
+
+git push -u origin master: to append the changes to the existing file in Github from gitbash
