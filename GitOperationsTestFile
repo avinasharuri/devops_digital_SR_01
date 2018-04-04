@@ -9,3 +9,8 @@ Move in to the online repository and create a file: vi GitOperationsTestFile
 Additional commands
 
 git push -u origin master: to append the changes to the existing file in Github from gitbash
+
+More additional commands
+
+git clone "url": to download a file to the master
+
