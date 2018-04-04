@@ -1,0 +1,7 @@
+Commands used in Git Bash and Git Hub
+
+Start with git init: To initialize a connection
+Enter credintials: $git config --global user.name "avinasharuri"
+	$git config --global user.email "avinasharuri@gmail.com"
+check for the path you are currently located at: # pwd
+Move in to the online repository and create a file: vi GitOperationsTestFile
